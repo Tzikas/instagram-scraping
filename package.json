@@ -32,8 +32,8 @@
     "prettier": "1.18.2"
   },
   "dependencies": {
-    "async": "^2.6.0",
-    "bluebird": "^3.5.1",
-    "request": "^2.83.0"
+    "async": "^2.6.3",
+    "bluebird": "^3.7.2",
+    "request": "^2.88.2"
   }
 }
